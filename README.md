@@ -1,16 +1,20 @@
 # personal_finance_app
 
-A new Flutter project.
+A sleek and intuitive Flutter application for tracking, visualizing, and managing daily expenses. Built with Bloc for state management, Hive for local persistence, and Provider for dynamic theme switching, this app offers a smooth and personalized experience across devices.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Add, view, and delete transactions with category tagging
+- Category and monthly breakdowns
+- Summary dashboard with interactive pie and bar charts
+- Light and dark mode support via Provider
+- Local storage using Hive for offline access
+- Gradient-styled UI with category icons
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter & Dart
+- Bloc (`flutter_bloc`)
+- Hive (NoSQL local DB)
+- Provider (theme management)
+- fl_chart (data visualization)
