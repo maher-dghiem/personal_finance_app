@@ -1,6 +1,6 @@
 # personal_finance_app
 
-A sleek and intuitive Flutter application for tracking, visualizing, and managing daily expenses. Built with Bloc for state management, Hive for local persistence, and Provider for dynamic theme switching, this app offers a smooth and personalized experience across devices.
+A sleek and intuitive Flutter application for tracking, visualizing, and managing daily expenses. Built using Clean Architecture to ensure scalable and maintainable code, the app leverages Bloc for state management, Hive for local persistence, and Provider for dynamic theme switching. This layered structure separates business logic from presentation, making the app easy to test, extend, and evolve. Users enjoy a smooth and personalized experience across devices, with support for light and dark modes.
 
 ## ✨ Features
 
