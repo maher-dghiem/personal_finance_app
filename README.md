@@ -14,7 +14,8 @@ A sleek and intuitive Flutter application for tracking, visualizing, and managin
 ## 🛠 Tech Stack
 
 - Flutter & Dart
-- Bloc (`flutter_bloc`)
-- Hive (NoSQL local DB)
-- Provider (theme management)
-- fl_chart (data visualization)
+- Clean Architecture (layered separation of concerns, SOLID principles)
+- Bloc (flutter_bloc) — state management
+- Hive — NoSQL local database
+- Provider — theme management
+- fl_chart — data visualization
